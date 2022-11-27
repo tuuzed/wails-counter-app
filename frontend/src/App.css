@@ -1,0 +1,8 @@
+#app {
+    height: 100vh;
+    text-align: center;
+}
+
+.counter {
+    font-size: 100px;
+}
